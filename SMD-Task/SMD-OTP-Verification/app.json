@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "SMD OTP Verification",
+    "slug": "smd-otp-verification",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "smdotp",
+    "android": {
+      "package": "com.burhan.smdotpverification"
+    },
+    "web": {
+      "output": "server"
+    },
+    "plugins": [
+      "expo-router"
+    ]
+  }
+}
